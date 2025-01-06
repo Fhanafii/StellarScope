@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StellarScope</string>
+    <string name="welcome_title">Welcome to</string>
+    <string name="stellar">Stellar</string>
+    <string name="scope">Scope</string>
+    <string name="subtitle">Your Journey Begins Here!</string>
+    <string name="tap_to_launch">Tap to Launch</string>
+
 </resources>
