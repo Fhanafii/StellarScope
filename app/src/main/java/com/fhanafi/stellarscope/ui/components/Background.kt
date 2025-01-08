@@ -1,4 +1,4 @@
-package com.fhanafi.stellarscope.ui.common
+package com.fhanafi.stellarscope.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

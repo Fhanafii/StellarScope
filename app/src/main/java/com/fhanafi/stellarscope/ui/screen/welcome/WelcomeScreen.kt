@@ -27,7 +27,7 @@ import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.fhanafi.stellarscope.R
-import com.fhanafi.stellarscope.ui.common.BackgroundImage
+import com.fhanafi.stellarscope.ui.components.BackgroundImage
 import com.fhanafi.stellarscope.ui.theme.StellarScopeTheme
 
 

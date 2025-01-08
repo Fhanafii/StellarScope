@@ -1,4 +1,4 @@
-package com.fhanafi.stellarscope.ui.common
+package com.fhanafi.stellarscope.ui.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -35,7 +35,7 @@ fun BottomNavigationBar(
             screen = Screen.Profile
         )
     )
-
+    //TODO : Ngebuat bottom nav bisa ada selected state. kemungkinan itu dari luar row bukan di dalam row
     Row(
         modifier = Modifier
             .fillMaxWidth()
